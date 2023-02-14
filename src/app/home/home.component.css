@@ -1,0 +1,14 @@
+.container-header_picture img{
+    width: 100%;
+    background-size: cover;
+    height: 300px;
+}
+
+.zero {
+    display: flex;
+    justify-content: space-between;
+}
+
+.dark {
+    filter: invert(1);
+}
